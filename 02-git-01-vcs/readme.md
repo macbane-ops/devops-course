@@ -4,48 +4,62 @@
 
 1. Зарегистрируйте аккаунт на https://github.com/ (если вы предпочитаете другое хранилище для репозитория, можно использовать его):  
 
-![img.png](img.png)
+![img.png](img.png)  
+
 2. Создайте публичный репозиторий, который будете использовать дальше на протяжении всего курса. Обязательно поставьте галочку Initialize this repository with a README:
 Ссылка на репозиторий: https://github.com/macbane-ops/devops-course  
 
 3. Создайте авторизационный токен для клонирования репозитория:
 Ссылка: https://github.com/macbane-ops/devops-course.git  
 
-![img_1.png](img_1.png)
+![img_1.png](img_1.png)  
+
 4. Перейдите в каталог с репозиторием:
 
-![img_2.png](img_2.png)
+![img_2.png](img_2.png)  
+
 5. Произведите первоначальную настройку Git:  
 
-![img_3.png](img_3.png)
+![img_3.png](img_3.png)  
+
 6. Выполните команду **git status**:  
 
-![img_4.png](img_4.png)
+![img_4.png](img_4.png)  
+
 7. Просмотр изменений в файле командой **git diff**:  
 
-![img_5.png](img_5.png)
+![img_5.png](img_5.png)  
+
 8. Просмотр изменений в файле командой **git diff --staged**:  
 
-![img_6.png](img_6.png)
+![img_6.png](img_6.png)  
+
 9. Первый коммит:  
 
-![img_8.png](img_8.png)
+![img_8.png](img_8.png)  
+
 10. Проверка **git status** после первого commit():  
 
-![img_7.png](img_7.png)
+![img_7.png](img_7.png)  
+
 
 ### Создание файлов **.gitignore** и второго коммита
 1. Создайте файл .gitignore:  
 
-![img_9.png](img_9.png)
-![img_10.png](img_10.png)
+![img_9.png](img_9.png)  
+
+![img_10.png](img_10.png)  
+
 2. Добавьте файл **.gitignore** в следующий коммит:  
 
-![img_11.png](img_11.png)
+![img_11.png](img_11.png)  
+
 3. Создадим каталог terraform и внутри этого каталога файл .gitignore по примеру https://github.com/github/gitignore/blob/master/Terraform.gitignore:  
 
-![img_12.png](img_12.png)
-![img_13.png](img_13.png)
+![img_12.png](img_12.png)  
+
+![img_13.png](img_13.png)  
+
 4. Опишите своими словами, какие файлы будут проигнорированы в будущем благодаря gitignore:
 * локальные директории terraform
 * crash-файлы логов
@@ -54,26 +68,32 @@
 * файлы локального перераспределения ресурсов
 5. Все изменения закоммичены:  
 
-![img_14.png](img_14.png)
-![img_15.png](img_15.png)
+![img_14.png](img_14.png)  
+
+![img_15.png](img_15.png)  
 
 ### Удаление и перемещение файлов
 
 1. Создайте файлы **will_be_deleted.txt** (с текстом will_be_deleted) и **will_be_moved.txt** (с текстом will_be_moved) и закоммите их с комментарием **Prepare to delete and move**.  
 
-![img_16.png](img_16.png)
+![img_16.png](img_16.png)  
+
 2. Удалите файл **will_be_deleted.txt** с диска и с репозитория:  
 
-![img_17.png](img_17.png)
+![img_17.png](img_17.png)  
+
 3. Переименуйте (переместите) файл **will_be_moved.txt** на диске и в репозитории, чтобы он стал называться **has_been_moved.txt**  
 
-![img_18.png](img_18.png)
+![img_18.png](img_18.png)  
+
 4. Закоммитьте результат работы с комментарием **Moved and deleted**  
 
-![img_19.png](img_19.png)
+![img_19.png](img_19.png)  
+
 
 ### Проверка изменений
-![img_20.png](img_20.png)
+![img_20.png](img_20.png)  
+
 
 ### Отправка изменений в репозиторий
 
