@@ -6,6 +6,8 @@
 2. [02-git-01-vcs](https://github.com/macbane-ops/devops-course/tree/master/02-git-01-vcs/readme.md)
 3. [02-git-02-base](https://github.com/macbane-ops/devops-course/tree/master/02-git-02-base/readme.md)
 4. [02-git-03-branching](https://github.com/macbane-ops/devops-course/tree/master/02-git-03-branching/readme.md)
-5. [02-git-04-tools](https://github.com/macbane-ops/devops-course/blob/master/02-git-04-tools/readme.md)
+5. [02-git-04-tools](https://github.com/macbane-ops/devops-course/blob/master/02-git-04-tools/readme.md)  
+6. [03-sysadmin-01-terminal](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-01-terminal/readme.md)
+7. [03-sysadmin-02-terminal]()
 
 
