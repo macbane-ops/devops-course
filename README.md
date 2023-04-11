@@ -9,5 +9,6 @@
 5. [02-git-04-tools](https://github.com/macbane-ops/devops-course/blob/master/02-git-04-tools/readme.md)  
 6. [03-sysadmin-01-terminal](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-01-terminal/readme.md)
 7. [03-sysadmin-02-terminal](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-02-terminal/readme.md)
+8. [03-sysadmin-03-OS]()
 
 
