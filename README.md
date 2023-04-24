@@ -10,5 +10,6 @@
 6. [03-sysadmin-01-terminal](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-01-terminal/readme.md)
 7. [03-sysadmin-02-terminal](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-02-terminal/readme.md)
 8. [03-sysadmin-03-OS](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-03-os/readme.md)
+9. [03-sysadmin-04-OS](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-04-os/readme.md)
 
 
