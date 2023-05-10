@@ -13,5 +13,6 @@
 9. [03-sysadmin-04-OS](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-04-os/readme.md)  
 10. [03-sysadmin-05-fs](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-05-fs/readme.md)
 11. [03-sysadmin-06-net](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-06-net/readme.md)
+12. [03-sysadmin-07-net](https://github.com/macbane-ops/devops-course/blob/master/03-sysadmin-07-net/readme.md)
 
 
